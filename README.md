@@ -29,3 +29,6 @@ dotfiles
 Enable Sublime from terminal:
 `ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime`
 
+## Install Homebrew and Virtualenv the NPR News Apps way
+
+[Follow until end of chapter 2](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html)
