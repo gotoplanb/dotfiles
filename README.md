@@ -26,6 +26,10 @@ dotfiles
 
 ## Commands to run
 
+Generate SSH key:
+`cd ~/.ssh`
+`ssh-keygen -t rsa -C "your_email@example.com"`
+
 Enable Sublime from terminal:
 `ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime`
 
