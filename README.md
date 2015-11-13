@@ -45,3 +45,7 @@ sudo chown -R `whoami` ~/.npm
 ## Install Homebrew and Virtualenv the NPR News Apps way
 
 [Follow until end of chapter 2](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html)
+
+## Other stuff
+
+[AWS CLI](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-bundle-other-os)
