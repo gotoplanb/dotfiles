@@ -49,3 +49,4 @@ sudo chown -R `whoami` ~/.npm
 ## Other stuff
 
 [AWS CLI](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-bundle-other-os)
+[GPGTools](https://gpgtools.org/)
