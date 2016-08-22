@@ -46,6 +46,9 @@ sudo chown -R `whoami` ~/.npm
 
 [Follow until end of chapter 2](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html)
 
+`brew install cheat heroku`
+`mkdir ~/.cheat`
+
 ## Other stuff
 
 [AWS CLI](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-bundle-other-os)
